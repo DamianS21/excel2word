@@ -1,0 +1,7 @@
+Flask
+openpyxl
+python-docx
+google-cloud-storage
+gunicorn
+weasyprint
+uuid
