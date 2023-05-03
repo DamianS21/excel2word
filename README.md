@@ -29,6 +29,10 @@ To use the app, simply upload your Excel file containing the relevant data, alon
 - OpenPyXL
 - python-docx
 
+## Live
+
+The app is deployed on GCP and domain: [excel2word.app](https://excel2word.app)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
